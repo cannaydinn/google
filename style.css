@@ -1,0 +1,33 @@
+.pageAlign{
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#search{
+    
+    background-color: #EEEEEE;
+    margin-bottom: 2px;
+}
+#leftSide{
+    
+    background-color: #7EE5DA;
+    float: left;
+    width: 36%;
+    padding: 10px;
+}
+#middle{
+    font-size: smaller;
+    background-color: #70CCC2;
+    margin-left: 2px;
+    float: left;
+    width: 18%;
+    padding: 5px;
+}
+#right{
+    float: left;
+    margin-left: 2px;
+    text-align: center;
+    width: 44%;
+    background-color: #62B3AA;
+    font-size: smaller;
+}
